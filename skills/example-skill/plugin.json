@@ -1,0 +1,5 @@
+{
+  "name": "example-skill",
+  "description": "Template and guide for creating skills - demonstrates the standard skill structure.",
+  "skills": ["SKILL.md"]
+}
