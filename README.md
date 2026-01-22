@@ -42,21 +42,20 @@ The Solana ecosystem moves fast. New protocols, SDKs, and best practices emerge 
 
 ```
 skills/
-├── skills/                  # Skill implementations
-│   └── example-skill/       # Example skill structure
-│       ├── SKILL.md         # Main skill instructions (required)
-│       ├── docs/            # Documentation
-│       │   └── troubleshooting.md
-│       ├── examples/        # Code examples
-│       │   └── basic/
-│       │       └── example.ts
-│       ├── resources/       # API references and configs
-│       │   └── api-reference.md
-│       └── templates/       # Starter templates
-│           └── setup.ts
-├── spec/                    # Agent Skills specification
+├──example-skill/         # Example skill structure
+│   ├── SKILL.md              # Main skill instructions (required)
+│   ├── docs/                 # Documentation
+│   │   └── troubleshooting.md
+│   ├── examples/             # Code examples
+│   │   └── basic/
+│   │       └── example.ts
+│   ├── resources/            # API references and configs
+│   │   └── api-reference.md
+│   └── templates/            # Starter templates
+│       └── setup.ts
+├── spec/                     # Agent Skills specification
 │   └── SPECIFICATION.md
-├── template/                # Starter template for new skills
+├── template/                 # Starter template for new skills
 │   └── SKILL.md
 ├── CONTRIBUTING.md
 ├── LICENSE
