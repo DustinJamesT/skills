@@ -1,0 +1,19 @@
+# Build output
+dist/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test artifacts
+test/
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

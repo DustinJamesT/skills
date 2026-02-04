@@ -1,0 +1,63 @@
+{
+  "name": "@sendaifun/solana-skills",
+  "version": "0.0.1",
+  "description": "CLI for Solana Agent Skills - Install skills for AI coding agents from sendaifun/skills",
+  "main": "dist/cli.js",
+  "bin": {
+    "solana-skills": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "npx ts-node src/cli.ts",
+    "start": "node dist/cli.js",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "cli",
+    "solana",
+    "agent-skills",
+    "skills",
+    "ai-agents",
+    "claude-code",
+    "cursor",
+    "codex",
+    "sendai",
+    "blockchain",
+    "web3",
+    "defi",
+    "nft"
+  ],
+  "author": "SendAI",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendaifun/skills.git"
+  },
+  "homepage": "https://solanaskills.com",
+  "bugs": {
+    "url": "https://github.com/sendaifun/skills/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "files": [
+    "dist/**/*"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^12.1.0",
+    "glob": "^11.0.0",
+    "gray-matter": "^4.0.3",
+    "inquirer": "^8.2.6",
+    "inquirer-checkbox-plus-prompt": "^1.4.2",
+    "ora": "^5.4.1",
+    "simple-git": "^3.27.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.2.10",
+    "@types/node": "^22.10.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
