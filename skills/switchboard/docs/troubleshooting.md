@@ -394,7 +394,7 @@ If you're still stuck:
 
 1. **Check official docs**: https://docs.switchboard.xyz
 2. **Search GitHub issues**: https://github.com/switchboard-xyz/switchboard/issues
-3. **Join Discord**: https://discord.gg/switchboard
+3. **Join Discord**: https://discord.gg/TJAv6ZYvPC
 4. **Check examples**: https://github.com/switchboard-xyz/sb-on-demand-examples
 
 ---
