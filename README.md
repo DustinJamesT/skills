@@ -49,6 +49,7 @@ npx skills add sendaifun/skills
 
 | Skill | Description |
 |-------|-------------|
+| [jupiter](skills/jupiter/) | Ultra swaps, limit orders, DCA, perpetuals, lending, and token APIs |
 | [drift](skills/drift/) | Perpetuals, spot trading, cross-collateral, and vaults |
 | [kamino](skills/kamino/) | Lending, borrowing, liquidity management, leverage trading |
 | [lulo](skills/lulo/) | Lending aggregator across Kamino, Drift, MarginFi, Jupiter |
