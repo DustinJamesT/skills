@@ -70,6 +70,10 @@
       "category": "Infrastructure"
     },
     {
+      "name": "marginfi",
+      "source": "./skills/marginfi",
+      "description": "MarginFi for lending  borrowing, leveraged positions (looping) and flash loans",
+      "category": "DeFi"
       "name": "metengine",
       "source": "./skills/metengine",
       "description": "Real-time smart money analytics for Polymarket prediction markets, Hyperliquid perpetual futures, and Meteora Solana LP/AMM pools. 63 endpoints. Pay-per-request via x402 on Solana Mainnet USDC. No API keys.",
