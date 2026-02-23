@@ -167,7 +167,7 @@ Switchboard oracle data. It provides:
 4. Stateless design (prices not stored on-chain)
 
 Integration steps:
-1. Create feed in Feed Builder (app.switchboard.xyz)
+1. Create feed in Feed Builder (ondemand.switchboard.xyz)
 2. Get feed hash (64-char hex string)
 3. Derive canonical quote account
 4. Fetch quote instruction from oracles

@@ -139,9 +139,8 @@ cargo build
 | Resource | URL |
 |----------|-----|
 | Official Docs | https://docs.switchboard.xyz |
-| TypeDocs (TS) | https://switchboard-docs.web.app |
 | Rustdoc | https://docs.rs/switchboard-on-demand |
-| Feed Builder | https://app.switchboard.xyz |
+| Feed Builder | https://ondemand.switchboard.xyz |
 
 ---
 
@@ -149,7 +148,7 @@ cargo build
 
 | Platform | Link |
 |----------|------|
-| Discord | https://discord.gg/switchboard |
+| Discord | https://discord.gg/TJAv6ZYvPC |
 | Twitter | https://twitter.com/switchboardxyz |
 | GitHub Discussions | https://github.com/switchboard-xyz/switchboard/discussions |
 

@@ -86,7 +86,7 @@ For real-time price streaming:
 
 | Environment | URL |
 |-------------|-----|
-| Production | `https://app.switchboard.xyz` |
+| Production | `https://ondemand.switchboard.xyz` |
 
 ## Usage Examples
 

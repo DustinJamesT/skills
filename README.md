@@ -49,7 +49,9 @@ npx skills add sendaifun/skills
 
 | Skill | Description |
 |-------|-------------|
+| [jupiter](skills/jupiter/) | Ultra swaps, limit orders, DCA, perpetuals, lending, and token APIs |
 | [drift](skills/drift/) | Perpetuals, spot trading, cross-collateral, and vaults |
+| [glam](skills/glam/) | Tokenized vaults, DeFi integrations (Jupiter, Drift, Kamino), staking, asset management |
 | [kamino](skills/kamino/) | Lending, borrowing, liquidity management, leverage trading |
 | [lulo](skills/lulo/) | Lending aggregator across Kamino, Drift, MarginFi, Jupiter |
 | [marginfi](skills/marginfi/) | Lending, borrowing, leveraged positions (looping) and flash loans |
@@ -87,6 +89,7 @@ npx skills add sendaifun/skills
 | Skill | Description |
 |-------|-------------|
 | [coingecko](skills/coingecko/) | Token prices, DEX pool data, OHLCV charts, trades |
+| [metengine](skills/metengine/) | Smart money analytics for Polymarket, Hyperliquid, and Meteora — wallet scoring, insider detection, capital flow tracking (63 endpoints, x402 pay-per-request) |
 
 ### Cross-Chain
 
