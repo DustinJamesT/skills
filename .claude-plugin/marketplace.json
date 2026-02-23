@@ -34,6 +34,12 @@
       "category": "DeFi"
     },
     {
+      "name": "glam",
+      "source": "./skills/glam",
+      "description": "GLAM Protocol for tokenized vaults, DeFi integrations (Jupiter, Drift, Kamino), staking, access control, and asset management on Solana",
+      "category": "DeFi"
+    },
+    {
       "name": "helius",
       "source": "./skills/helius",
       "description": "Helius RPC infrastructure, DAS API, Enhanced Transactions, Priority Fees, Webhooks, and LaserStream gRPC",
